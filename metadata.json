@@ -1,0 +1,6 @@
+{
+  "name": "Yashraj Patil - AI Personal Finance Advisor",
+  "description": "An intelligent personal finance planning and advisory platform featuring budgeting, expense tracking, savings monitoring, financial health auditing, and AI guidance powered by Yashraj Patil AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
